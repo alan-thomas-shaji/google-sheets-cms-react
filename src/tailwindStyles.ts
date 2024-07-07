@@ -1,0 +1,1 @@
+export const homePageDarkBg = "bg-regular text-white h-screen";
